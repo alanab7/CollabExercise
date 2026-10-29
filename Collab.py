@@ -9,3 +9,7 @@ def practice():
 keys = ["name", "age", "city"]
 values = ["Alice", 25, "Seattle"]
 combined = {k:v for k, v in zip(keys, values)}
+
+# Laila Solomon 
+def introduce():
+    print("Hey, I'm Laila")
